@@ -1,4 +1,3 @@
-# Panache Velo Everesting
 On Saturday, 27th of June 2026 we are climbing the Everest in Luxembourg!
 Join us to climb **full** (8 848 m) or **half** (4 424 m) elevation of mount Everest, or just to **support** the climbers.
 
@@ -8,9 +7,9 @@ For more information on the Everesting challenge and the rules, visit [everestin
 
 We'll climb the Féischterbierg climb, which starts from Göbelsmuhle and arrives almost to Bourscheid.
 
-<img src="map.png" width=500px alt="Map">
+<div align="center"><img src="map.png" width=500px alt="Map"></div>
 
-<img src="elevation_profile.png" width=500px alt="Elevation profile">
+<div align="center"><img src="elevation_profile.png" width=500px alt="Elevation profile"></div>
 
 ## How many laps?
 
